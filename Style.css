@@ -1,0 +1,9 @@
+body{
+    background: radial-gradient(yellow 0%, red 100%);
+    border: 10px double black;
+}
+
+.heading{
+    letter-spacing: 10px;
+    font-size: 20px;
+}
